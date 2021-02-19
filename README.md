@@ -5,6 +5,7 @@
 # Installation and Usage(assuming you have Virtualenv installed):
   To install this tool, simply clone repositry and run the following commands
     ```
+    
     ~$ git clone https://github.com/CPT-Damian/crack
     
     ~$ cd crack
