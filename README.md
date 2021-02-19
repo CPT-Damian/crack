@@ -23,6 +23,7 @@
     (name_of_project) ~/crack python3 crack.py  
     ```
     
+    You'd be ask to to put in a word list. I suggest getting this: https://www.kaggle.com/wjburns/common-password-list-rockyoutxt
 
 
 
