@@ -9,7 +9,7 @@ tprint(x, "rnd-xlarge")
 
 pass_hash = input("Enter md5 hash: ")
 
-word_list = input("Name of .txt file containing world list: ")
+word_list = input("Name of .txt file containing world list(or path to file): ")
 
 try:
     pass_file = open(word_list)
