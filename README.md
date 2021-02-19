@@ -1,6 +1,6 @@
 # crack
   This tool is a MD5 hash cracker. 
-    Python3 need to use this tool.
+    Python3 needed to use this tool.
 
 # Installation and Usage(assuming you have Virtualenv installed):
   To install this tool, simply clone repositry and run the following commands
