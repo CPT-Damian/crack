@@ -6,7 +6,6 @@
   To install this tool, simply clone repositry and run the following commands
   
     ```
-    
     ~$ git clone https://github.com/CPT-Damian/crack
     
     ~$ cd crack
@@ -21,8 +20,7 @@
     (name_of_project) ~/crack pip3 install requirements.txt
     
     #Now, you are set to run the file#
-    (name_of_project) ~/crack python3 crack.py
-    
+    (name_of_project) ~/crack python3 crack.py  
     ```
     
 
